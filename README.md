@@ -116,7 +116,7 @@ java Backend
 - **Head of Department:** Dr. Radhika Kotecha
 - **Principal:** Dr. Vivek Sunnapwar
 
-*See [`SYNOPSIS_REPORT.md`](SYNOPSIS_REPORT.md) for the complete academic report.*
+
 
 ---
 
