@@ -4,6 +4,9 @@
 # Log files
 *.log
 
+# Helper scripts
+push_to_github.bat
+
 # OS metadata
 .DS_Store
 Thumbs.db
