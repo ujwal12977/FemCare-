@@ -1,0 +1,10 @@
+# Compiled Java bytecode
+*.class
+
+# Log files
+*.log
+
+# OS metadata
+.DS_Store
+Thumbs.db
+desktop.ini
